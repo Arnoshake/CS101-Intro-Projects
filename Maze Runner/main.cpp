@@ -1,6 +1,6 @@
 /*
  Name: Zachary West
- Email: zjwest1@crimson.ua.edu
+ Email: zwest2563@gmail.com
  Course Section: Spring 2025 CS 201-002
  Instructions to Compile:
     I used the following statement to compile my code: "g++ -std=c++11 main.cpp wavefront.cpp -o wavefront_app"

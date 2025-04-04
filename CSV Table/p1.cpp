@@ -9,7 +9,7 @@
 using namespace std;
 /*
  Name: Zachary West
- Email: zjwest1@crimson.ua.edu
+ Email: zwest2563@gmail.com
  Course Section: Fall 2024 CS 101
  Project #: 1
  Instructions to Compile:
